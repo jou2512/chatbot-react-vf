@@ -1,4 +1,4 @@
-import { Chat, ChatWindow, Launcher, SessionStatus, SystemResponse, TurnType, UserResponse, useRuntime } from '@voiceflow/react-chat';
+import { Chat, ChatWindow, Launcher, SessionStatus, SystemResponse, TurnType, UserResponse } from '@voiceflow/react-chat';
 import { useContext, useState } from 'react';
 import { match } from 'ts-pattern';
 import { RuntimeContext } from './utilities/context';
