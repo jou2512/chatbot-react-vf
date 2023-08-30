@@ -1,0 +1,3 @@
+Traces is similar to component/message handler
+
+messages and components are here pushed to the context.messages array which is just the Chatlog array
